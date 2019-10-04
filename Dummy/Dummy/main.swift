@@ -17,6 +17,44 @@ struct Place {
     let location: CLLocation
 }
 
+struct Time {
+    let days: Int
+    let hours: Int
+    let minutes: Int
+    
+    func add(minutes: Int, startOfDay: Time, endOfDay: Time) -> Time {
+        var newHours = minutes % 60
+        var newMinutes = minutes - (newHours * 60)
+        var newDays = days
+        
+        newHours += self.hours
+        newMinutes += self.minutes
+        
+        let timeToEndOfDay = endOfDay - Time(days: 0, hours: newHours, minutes: newMinutes)
+        if timeToEndOfDay.hours * 60 + timeToEndOfDay.minutes > minutes {
+            newDays += 1
+            newHours = newHours - timeToEndOfDay.hours
+            newMinutes = newMinutes - timeToEndOfDay.minutes
+        }
+        
+        if newMinutes >= 60 {
+            newMinutes -= 60
+            newHours += 1
+        }
+        
+        if newHours >= 24 {
+            newHours -= 24
+            newDays += 1
+        }
+        
+        return Time(days: newDays, hours: newHours, minutes: newMinutes)
+    }
+    
+    public static func - (lhs: Time, rhs: Time) -> Time {
+        return Time(days: rhs.days - lhs.days, hours: rhs.hours - lhs.hours, minutes: rhs.minutes - lhs.minutes)
+    }
+}
+
 enum Errors: Error {
     case noHeadOffice
 }
@@ -99,20 +137,11 @@ assert(orderedVisits.count == numberOfPlaces)
 
 let timeToSpendAtLocation = 20
 let speedMPM: Double = 30/60 // Miles per minute
-let startDate = Date()
-var endDate = startDate
 
-let startTimePerDay = 8
-let endTimePerDay = 18
+let startOfDay = Time(days: 0, hours: 8, minutes: 0)
+let endOfDay = Time(days: 0, hours: 18, minutes: 0)
 
-let calendar = Calendar.current
-var startComponents = calendar.dateComponents([.day, .month, .year, .hour, .minute], from: startDate)
-startComponents.hour = startTimePerDay
-startComponents.minute = 0
-
-var endComponents = startComponents
-var closingTimeToday = endComponents
-closingTimeToday.hour = endTimePerDay
+var duration = Time(days: 0, hours: 0, minutes: 0)
 
 currentLocation = orderedVisits.first!.location
 for i in (1..<orderedVisits.count) {
@@ -120,6 +149,6 @@ for i in (1..<orderedVisits.count) {
     let distance = location.location.distance(from: currentLocation)
     let minutesTravel = Int(distance.miles / speedMPM)
     
-    let modifiedDate = Calendar.current.date(byAdding: DateComponents(minute: minutesTravel), to: endComponents.date!, wrappingComponents: true)
+    
     
 }
