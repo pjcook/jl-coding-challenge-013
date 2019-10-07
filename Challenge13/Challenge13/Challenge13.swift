@@ -13,7 +13,7 @@ enum Errors: Error {
 }
 
 struct Challenge13 {
-    func run() throws {
+    func run() throws -> Time {
         var places = DataParser.parse(locationData)
         let numberOfPlaces = places.count
         var currentLocation = CLLocation(latitude: -0.141499, longitude: 51.496466)
@@ -32,9 +32,6 @@ struct Challenge13 {
             places = nearest.remove(from: places)
         }
         
-        assert(places.count == 0)
-        assert(orderedVisits.count == numberOfPlaces)
-        
         let timeToSpendAtLocation = 20
         let speedMPM: Double = 30/60 // Miles per minute
         
@@ -43,15 +40,18 @@ struct Challenge13 {
         
         var duration = Time(days: 0, hours: 0, minutes: 0)
         
-        currentLocation = orderedVisits.first!.location
+        var lastLocation = orderedVisits.first!
         for i in (1..<orderedVisits.count) {
             let location = orderedVisits[i]
-            let distance = location.location.distance(from: currentLocation)
+            let distance = location.location.distance(from: lastLocation.location)
             let minutesTravel = Int(distance.miles / speedMPM)
-            
-            
-            
-        }
+            print("C:\(lastLocation.name), N:\(location.name), D:\(distance), M:\(minutesTravel)")
+            lastLocation = location
 
+            duration = try duration.add(minutes: minutesTravel, startOfDay: startOfDay, endOfDay: endOfDay)
+            duration = try duration.add(minutes: timeToSpendAtLocation, startOfDay: startOfDay, endOfDay: endOfDay)
+        }
+        
+        return duration
     }
 }
