@@ -1,0 +1,443 @@
+Starting Point, Destination, Distance (Miles), Travel time (Minutes)
+John Lewis.com, Victoria Bressenden Place, 0.1388711640941295, 0
+Victoria Bressenden Place, Victoria Street, 0.36129746172854854, 0
+Victoria Street, Pimlico, 0.37469814203758933, 0
+Pimlico, BATTERSEA NINE ELMS, 0.7975653283498692, 1
+BATTERSEA NINE ELMS, Vauxhall, 0.7325444408507148, 1
+Vauxhall, Battersea, 1.7369481550910555, 3
+Battersea, Clapham Common, 1.209013125399947, 2
+Clapham Common, Balham, 1.4602773010611765, 2
+Balham, Clapham Junction, 1.6554826645107985, 3
+Clapham Junction, Kings Road, 1.775378713621858, 3
+Kings Road, Peter Jones, 0.6093158945675441, 1
+Peter Jones, Belgravia, 0.48487508563779275, 0
+Belgravia, Knightsbridge, 0.5262111169940051, 1
+Knightsbridge, Old Brompton Road, 1.1142726213563063, 2
+Old Brompton Road, Gloucester Road, 0.3215715677032473, 0
+Gloucester Road, Kensington, 1.0258891180520417, 2
+Kensington, Notting Hill Gate, 0.6868637168228549, 1
+Notting Hill Gate, Bayswater, 1.0131504283967727, 2
+Bayswater, Kensington Gardens, 0.53670899434782, 1
+Kensington Gardens, Edgware Road, 1.2615717795974848, 2
+Edgware Road, Marylebone, 0.9813809564030073, 1
+Marylebone, JL Foodhall Oxford Street, 0.569619089708586, 1
+JL Foodhall Oxford Street, Bloomsbury, 1.6139460426430794, 3
+Bloomsbury, John Lewis St Pancras, 0.5265911346381524, 1
+John Lewis St Pancras, Kings Cross Station, 0.20659315012782992, 0
+Kings Cross Station, Cookery School (Kings Cross), 0.2612272918429009, 0
+Cookery School (Kings Cross), Kings Cross, 0.0, 0
+Kings Cross, John Lewis Oxford Street, 1.1216724152307336, 2
+John Lewis Oxford Street, Clerkenwell, 0.6363235255227155, 1
+Clerkenwell, Islington, 0.723013833992693, 1
+Islington, Highbury Corner, 0.9239029935547807, 1
+Highbury Corner, Holloway Road, 1.0506387068943277, 2
+Holloway Road, Crouch End, 1.6984204475910156, 3
+Crouch End, Muswell Hill, 1.5331917838488653, 3
+Muswell Hill, Finchley, 2.9041797453035048, 5
+Finchley, Finchley Central, 1.2788342546382157, 2
+Finchley Central, Mill Hill, 1.1002128183450337, 2
+Mill Hill, Temple Fortune, 1.7871132835275387, 3
+Temple Fortune, Brent Cross, 1.7041549367604918, 3
+Brent Cross, John Lewis Brent Cross, 0.0, 0
+John Lewis Brent Cross, West Hampstead, 2.7398721018355046, 5
+West Hampstead, Cookery School (Finchley Road), 0.9500919673915794, 1
+Cookery School (Finchley Road), John Barnes, 0.0, 0
+John Barnes, John Lewis White City Westfield, 3.8433157237198996, 7
+John Lewis White City Westfield, Westfield London, 0.18475325877752777, 0
+Westfield London, Fulham Palace Road, 1.6748090949278756, 3
+Fulham Palace Road, West Kensington, 1.0280149948324557, 2
+West Kensington, Fulham, 0.6964606673916137, 1
+Fulham, Parsons Green, 0.42398515110223306, 0
+Parsons Green, East Putney, 1.2438863102507691, 2
+East Putney, Putney, 0.4120635418459891, 0
+Putney, Wandsworth, 1.7034406360182912, 3
+Wandsworth, Wimbledon, 2.1232887643583545, 4
+Wimbledon, Wimbledon Hill, 0.4490694406956372, 0
+Wimbledon Hill, Raynes Park, 2.0009925370433503, 4
+Raynes Park, New Malden, 1.5846388100760824, 3
+New Malden, Worcester Park, 1.878606641100839, 3
+Worcester Park, Cheam, 2.2940803973422956, 4
+Cheam, Banstead, 2.7725329278262825, 5
+Banstead, Burgh Heath, 3.6934315124274044, 7
+Burgh Heath, Epsom, 5.741408477936243, 11
+Epsom, Leatherhead, 4.911635329890247, 9
+Leatherhead, Dorking, 4.384156676615485, 8
+Dorking, Cobham, 8.780825144116099, 17
+Cobham, Hersham, 2.63408937902526, 5
+Hersham, Esher, 2.217238409949983, 4
+Esher, Hampton, 3.3162778362474215, 6
+Hampton, Twickenham, 3.8213478849468046, 7
+Twickenham, Richmond, 2.118595506755089, 4
+Richmond, East Sheen, 2.2138273705773295, 4
+East Sheen, Chiswick, 2.010134967126123, 4
+Chiswick, Ealing, 2.5378255346433924, 5
+Ealing, West Ealing, 2.1488579891597825, 4
+West Ealing, SKY (OSTERLEY), 1.84952544989442, 3
+SKY (OSTERLEY), John Lewis Kingston, 5.465002659740584, 10
+John Lewis Kingston, Kingston, 0.15471442295801757, 0
+Kingston, Surbiton, 1.251568226900028, 2
+Surbiton, ROEHAMPTON, 5.935197843724217, 11
+ROEHAMPTON, High Holborn, 9.498041258561551, 18
+High Holborn, South Bank Tower, 1.043980836832968, 2
+South Bank Tower, Walbrook, 1.2110331472683866, 2
+Walbrook, Monument, 0.28047636671466675, 0
+Monument, Barbican, 0.9076839380791558, 1
+Barbican, St Katharine Docks, 1.9975193479777154, 3
+St Katharine Docks, Canary Wharf, 3.5107289647960065, 7
+Canary Wharf, Canary Wharf, 0.0, 0
+Canary Wharf, Greenwich, 1.5553714285512612, 3
+Greenwich, Stratford City, 4.281496907673558, 8
+Stratford City, John Lewis Stratford, 0.01093019453083181, 0
+John Lewis Stratford, South Woodford, 4.0930902323532585, 8
+South Woodford, Buckhurst Hill, 2.5958025738686215, 5
+Buckhurst Hill, Enfield, 9.00629110129744, 18
+Enfield, Enfield Chase, 0.6353630486220023, 1
+Enfield Chase, Winchmore Hill, 1.252189869024296, 2
+Winchmore Hill, Whetstone, 5.672628673710149, 11
+Whetstone, Barnet, 2.527215322858627, 5
+Barnet, Mimms Services, 2.5663280134621496, 5
+Mimms Services, London Gateway, 5.041318959298153, 10
+London Gateway, Harrow Weald, 5.676462134443653, 11
+Harrow Weald, South Harrow, 2.744766749310383, 5
+South Harrow, South Harrow Petrol Station, 0.0, 0
+South Harrow Petrol Station, Ruislip, 4.876488275289058, 9
+Ruislip, Northwood, 2.758181392110348, 5
+Northwood, John Lewis Watford, 3.681170638053628, 7
+John Lewis Watford, Little Waitrose at John Lewis Watford, 0.0, 0
+Little Waitrose at John Lewis Watford, Sceptre (Watford), 1.8324440640768611, 3
+Sceptre (Watford), St Albans, 5.1064722463136585, 10
+St Albans, Harpenden, 4.795854131582348, 9
+Harpenden, John Lewis Welwyn, 10.356861269616804, 20
+John Lewis Welwyn, Welwyn Garden City, 0.17910453912490598, 0
+Welwyn Garden City, Stevenage, 7.445706690486964, 14
+Stevenage, Hitchin, 5.796677575595968, 11
+Hitchin, Ampthill, 15.527103907568893, 31
+Ampthill, Bedford, 9.229231419627997, 18
+Bedford, St Neots, 11.730128435215567, 23
+St Neots, St Ives, 15.39508294203777, 30
+St Ives, John Lewis Cambridge, 15.525756924036303, 31
+John Lewis Cambridge, Fitzroy Street, 0.580726986405398, 1
+Fitzroy Street, Cambridge, 2.8760489407703242, 5
+Cambridge, Saffron Walden, 13.533383468852607, 27
+Saffron Walden, Birchanger Services, 10.941175652984871, 21
+Birchanger Services, Bishops Stortford, 2.402691539855083, 4
+Bishops Stortford, Broxbourne, 15.589636598709658, 31
+Broxbourne, Bromley, 22.15644579717396, 44
+Bromley, Bromley South, 1.5410553646768628, 3
+Bromley South, Beckenham, 3.0338055341747983, 6
+Beckenham, Croydon, 5.614502384022713, 11
+Croydon, John Lewis at home Croydon, 1.5739399580844116, 3
+John Lewis at home Croydon, Coulsdon, 3.649927992473807, 7
+Coulsdon, Coulsdon DFC, 0.40591350783091557, 0
+Coulsdon DFC, Sanderstead, 4.143215266006826, 8
+Sanderstead, Caterham, 3.491443320112129, 6
+Caterham, Oxted, 5.290449582903006, 10
+Oxted, Biggin Hill, 4.552345842456172, 9
+Biggin Hill, Green Street Green, 4.759854259130929, 9
+Green Street Green, Petts Wood, 2.4464240945060776, 4
+Petts Wood, Sidcup, 3.3656116914609098, 6
+Sidcup, JL Foodhall Bluewater, 11.492155424841224, 22
+JL Foodhall Bluewater, John Lewis Bluewater, 0.0, 0
+John Lewis Bluewater, Longfield, 3.6492627330811955, 7
+Longfield, Kingshill, 11.10374942430977, 22
+Kingshill, Paddock Wood, 6.426255457138312, 12
+Paddock Wood, John Lewis at home Tunbridge Wells, 6.8880710991890854, 13
+John Lewis at home Tunbridge Wells, Tonbridge, 2.7344914004123653, 5
+Tonbridge, Sevenoaks, 7.720361525105196, 15
+Sevenoaks, Tubs Hill, 0.8188434646949568, 1
+Tubs Hill, Edenbridge, 9.937849178206319, 19
+Edenbridge, East Grinstead, 7.162571232396685, 14
+East Grinstead, Haywards Heath, 10.395850017216851, 20
+Haywards Heath, Burgess Hill, 3.9479232331187117, 7
+Burgess Hill, Hove, 8.305496672712385, 16
+Hove, Brighton, 2.158920834678774, 4
+Brighton, Lewes, 11.887533502625633, 23
+Lewes, Uckfield, 8.638377907198773, 17
+Uckfield, Crowborough, 7.644274129052572, 15
+Crowborough, Heathfield, 8.865726872359938, 17
+Heathfield, Hailsham, 7.2065323897377045, 14
+Hailsham, Eastbourne, 6.337370026849853, 12
+Eastbourne, Hawkhurst, 25.303370118750994, 50
+Hawkhurst, Tenterden, 12.261032675202014, 24
+Tenterden, Ashford, 13.002372480518023, 26
+Ashford, John Lewis at home Ashford, 0.3604011930207106, 0
+John Lewis at home Ashford, Hythe, 16.773081630301355, 33
+Hythe, Canterbury, 14.130628059760442, 28
+Canterbury, Ramsgate, 23.06786486759558, 46
+Ramsgate, Southend, 50.01526860424713, 100
+Southend, Southend Petrol Station, 0.0, 0
+Southend Petrol Station, Leigh On Sea, 4.80589057419249, 9
+Leigh On Sea, Billericay, 17.19516286753534, 34
+Billericay, John Lewis Chelmsford, 8.673791082541234, 17
+John Lewis Chelmsford, Upminster, 19.72328186909731, 39
+Upminster, Allington Park, 25.161033856490572, 50
+Allington Park, Horley - Brighton Road, 46.00863220692423, 92
+Horley - Brighton Road, Horley, 0.6443751754144, 1
+Horley, Horsham New, 14.041341454012604, 28
+Horsham New, John Lewis at home Horsham, 0.0, 0
+John Lewis at home Horsham, Storrington, 12.820012448612129, 25
+Storrington, Rustington, 8.307300966668256, 16
+Rustington, Worthing, 9.425775977284342, 18
+Worthing, John Lewis at home Chichester, 26.833603568376507, 53
+John Lewis at home Chichester, Chichester, 2.0435557518724443, 4
+Chichester, Havant, 13.508688265855662, 27
+Havant, Waterlooville, 3.87999674036936, 7
+Waterlooville, Southsea, 7.544304038100679, 15
+Southsea, Knight and Lee, 0.10179027721315914, 0
+Knight and Lee, Gosport, 3.2856290296787525, 6
+Gosport, Locks Heath, 10.7669408197123, 21
+Locks Heath, East Cowes, 7.347922009207047, 14
+East Cowes, Dibden, 10.821086295222639, 21
+Dibden, John Lewis Southampton, 2.456069875407814, 4
+John Lewis Southampton, Little Waitrose John Lewis Southampton, 0.0, 0
+Little Waitrose John Lewis Southampton, Southampton New, 1.6008966956266026, 3
+Southampton New, Chandlers Ford, 4.615522480813458, 9
+Chandlers Ford, Winchester, 6.534994456868759, 13
+Winchester, Romsey, 12.442930422717481, 24
+Romsey, Andover, 15.14703482358633, 30
+Andover, Newbury, 17.251315792931496, 34
+Newbury, John Lewis at home Newbury, 0.4612612914230562, 0
+John Lewis at home Newbury, Thatcham, 4.576435556369948, 9
+Thatcham, BASINGSTOKE, 15.206785172791514, 30
+BASINGSTOKE, John Lewis at home Basingstoke, 0.0, 0
+John Lewis at home Basingstoke, Alton, 11.2053663384912, 22
+Alton, Petersfield, 10.479886435538525, 20
+Petersfield, Haslemere, 16.62033913231639, 33
+Haslemere, Godalming, 9.6632755691756, 19
+Godalming, Guildford, 4.341216854468332, 8
+Guildford, Guildford Worplesdon Road, 1.903691289138306, 3
+Guildford Worplesdon Road, Goldsworth Park, 4.282541544642645, 8
+Goldsworth Park, Sunningdale, 5.836069237749974, 11
+Sunningdale, Bagshot, 5.172969326463487, 10
+Bagshot, Frimley, 4.1861755372829315, 8
+Frimley, Sandhurst, 2.9906803322948092, 5
+Sandhurst, Yateley, 4.668310468741027, 9
+Yateley, Fleet South Services, 3.0688586601218346, 6
+Fleet South Services, Fleet, 1.4121769531290882, 2
+Fleet, Farnham, 5.2676069934102285, 10
+Farnham, Bagshot Road, 13.640929818543773, 27
+Bagshot Road, Bracknell, 0.9502224981034939, 1
+Bracknell, Horticulture Direct Services, 1.3334603092991237, 2
+Horticulture Direct Services, Waitrose Online Direct, 0.0, 0
+Waitrose Online Direct, Wokingham, 4.338430101489902, 8
+Wokingham, Twyford, 5.103071692960461, 10
+Twyford, Woodley, 3.2368349619140666, 6
+Woodley, John Lewis Reading, 4.581211817684058, 9
+John Lewis Reading, Caversham, 0.8324349991592803, 1
+Caversham, Reading, 3.1277911768859497, 6
+Reading, Henley, 9.319765999872262, 18
+Henley, Marlow, 9.246677927592417, 18
+Marlow, John Lewis High Wycombe, 2.666377354343849, 5
+John Lewis High Wycombe, High Wycombe, 1.5601798723465479, 3
+High Wycombe, Hazlemere, 4.123981386694756, 8
+Hazlemere, Beaconsfield, 5.330150613225156, 10
+Beaconsfield, Amersham, 5.297760903686764, 10
+Amersham, Chesham, 2.0612961395616165, 4
+Chesham, Berkhamsted, 4.868532258673117, 9
+Berkhamsted, Rickmansworth, 10.595577935042948, 21
+Rickmansworth, Gerrards Cross, 6.522080796547135, 13
+Gerrards Cross, Waterside, 5.619567211952953, 11
+Waterside, John Lewis Heathrow Terminal 2, 5.344668339214776, 10
+John Lewis Heathrow Terminal 2, Weybridge, 6.670061706730116, 13
+Weybridge, Addlestone, 2.386914788758706, 4
+Addlestone, West Byfleet, 2.439946116083083, 4
+West Byfleet, Burnt Common, 3.9433249229464167, 7
+Burnt Common, Egham, 10.608056458265484, 21
+Egham, Windsor New, 5.611792286759859, 11
+Windsor New, Maidenhead, 7.692771299066661, 15
+Maidenhead, Aylesbury, 21.147647196279852, 42
+Aylesbury, Leighton Buzzard, 12.168323301766089, 24
+Leighton Buzzard, Oakgrove, 9.123564036865073, 18
+Oakgrove, John Lewis Milton Keynes, 2.65551180024432, 5
+John Lewis Milton Keynes, Newport Pagnell, 3.9431941002032858, 7
+Newport Pagnell, Wootton, 15.397050834874271, 30
+Wootton, Kingsthorpe, 3.666975887846379, 7
+Kingsthorpe, Towcester, 10.970246415838222, 21
+Towcester, Buckingham, 8.96027337139333, 17
+Buckingham, Brackley, 11.52094740121828, 23
+Brackley, Banbury, 13.269646071853899, 26
+Banbury, Warwick Services, 16.11010238385979, 32
+Warwick Services, Kenilworth, 9.365996565708462, 18
+Kenilworth, Corley Services, 9.229542171970248, 18
+Corley Services, John Lewis at home Tamworth, 15.322044804332396, 30
+John Lewis at home Tamworth, Four Oaks, 9.076019995649654, 18
+Four Oaks, Lichfield, 5.9874082712585, 11
+Lichfield, John Lewis Birmingham, 14.16324581452873, 28
+John Lewis Birmingham, Harborne, 3.6174066139986882, 7
+Harborne, Hopwood Park Petrol Filling Station (ser, 6.562636954943811, 13
+Hopwood Park Petrol Filling Station (ser, Hopwood Services, 0.0, 0
+Hopwood Services, Bromsgrove, 8.422088476777885, 16
+Bromsgrove, Droitwich, 7.132875289323825, 14
+Droitwich, Worcester, 6.85356167873818, 13
+Worcester, Great Malvern, 10.389646339302288, 20
+Great Malvern, Cheltenham, 22.236697877788266, 44
+Cheltenham, Cheltenham Petrol Station, 0.0, 0
+Cheltenham Petrol Station, John Lewis Cheltenham, 0.7893415800463615, 1
+John Lewis Cheltenham, Stroud, 14.591492395735568, 29
+Stroud, Malmesbury, 13.818164095311326, 27
+Malmesbury, Chippenham, 8.634575956332176, 17
+Chippenham, Melksham, 5.920343984519352, 11
+Melksham, Warminster, 12.069548724276999, 24
+Warminster, Gillingham, 13.51610511881359, 27
+Gillingham, Sherborne, 17.57428407982702, 35
+Sherborne, Poundbury, 16.52823509994, 33
+Poundbury, Dorchester, 2.1126787952823727, 4
+Dorchester, Bridport, 22.28093507552182, 44
+Bridport, Crewkerne, 10.579421516259957, 21
+Crewkerne, Wells, 24.640685451539827, 49
+Wells, Nailsea, 17.159405440478704, 34
+Nailsea, Portishead, 3.6439728597346432, 7
+Portishead, Portishead Petrol Station, 0.0, 0
+Portishead Petrol Station, Gordano Services, 3.8703504449778894, 7
+Gordano Services, Westbury Park, 6.567049627419411, 13
+Westbury Park, Clifton, 1.6435364146766596, 3
+Clifton, John Lewis Cribbs Causeway, 4.8311868366076505, 9
+John Lewis Cribbs Causeway, Keynsham, 10.783618884238587, 21
+Keynsham, Bath, 8.859369205188237, 17
+Bath, Chipping Sodbury, 11.160135574852216, 22
+Chipping Sodbury, Michaelwood Services, 8.873549777863104, 17
+Michaelwood Services, Monmouth, 22.77391216135761, 45
+Monmouth, Caldicot, 15.429274488112014, 30
+Caldicot, Weston Super Mare, 22.12800359000439, 44
+Weston Super Mare, John Lewis Cardiff, 17.571218662892477, 35
+John Lewis Cardiff, Pontprennau, 4.383324601406444, 8
+Pontprennau, Cardiff Gate Services, 0.7653404751853351, 1
+Cardiff Gate Services, Barry, 11.371376168551066, 22
+Barry, Cowbridge, 14.73260826913855, 29
+Cowbridge, Wellington, 36.60558312393143, 73
+Wellington, Sidmouth, 19.35963120023794, 38
+Sidmouth, Exeter, 18.610235344529745, 37
+Exeter, John Lewis Exeter, 0.8096412548042218, 1
+John Lewis Exeter, Teignmouth, 12.571911589559381, 25
+Teignmouth, Torquay, 5.334709505396685, 10
+Torquay, Okehampton, 37.4325746931864, 74
+Okehampton, Holsworthy, 24.463890387422495, 48
+Holsworthy, Saltash, 27.857695442569813, 55
+Saltash, Truro, 56.116719925198474, 112
+Truro, Abergavenny, 174.41059617708666, 348
+Abergavenny, Abergavenny Petrol Station, 0.0, 0
+Abergavenny Petrol Station, Hereford, 26.992655642241527, 53
+Hereford, Shrewsbury, 44.96884575022633, 89
+Shrewsbury, Newport, 26.757202946154973, 53
+Newport, Keele Services, 16.57013075580896, 33
+Keele Services, Sandbach, 11.489502770034752, 22
+Sandbach, Knutsford, 11.189504965017658, 22
+Knutsford, Altrincham, 7.062690518859032, 14
+Altrincham, John Lewis Trafford, 4.20880629373647, 8
+John Lewis Trafford, John Lewis Cheadle, 10.847947583170868, 21
+John Lewis Cheadle, Cheadle Hulme, 1.9279155009465674, 3
+Cheadle Hulme, Wilmslow, 4.27902986672733, 8
+Wilmslow, Alderley Edge, 1.849934049757564, 3
+Alderley Edge, Poynton, 8.660368313303238, 17
+Poynton, Buxton, 15.556122290944995, 31
+Buxton, Ashbourne, 20.922501244430574, 41
+Ashbourne, UTTOXETER, 12.224211879830337, 24
+UTTOXETER, Wolverhampton, 29.06271672764064, 58
+Wolverhampton, Wolverhampton Petrol Station, 0.0, 0
+Wolverhampton Petrol Station, Stourbridge, 8.229561420167895, 16
+Stourbridge, Hall Green, 20.994957050216154, 41
+Hall Green, Solihull, 4.130080532996398, 8
+Solihull, John Lewis Solihull, 0.22744735390652368, 0
+John Lewis Solihull, Alcester, 14.972542311460357, 29
+Alcester, Evesham, 10.210022486727084, 20
+Evesham, Stratford Upon Avon, 18.322714883319218, 36
+Stratford Upon Avon, Witney, 31.03532606910029, 62
+Witney, Faringdon, 11.25274451933098, 22
+Faringdon, Wantage, 11.186608485382347, 22
+Wantage, Abingdon, 11.518844470342566, 23
+Abingdon, John Lewis Oxford, 5.522648440172439, 11
+John Lewis Oxford, Oxford Botley Road, 1.2353905073367464, 2
+Oxford Botley Road, Peartree, 2.9819019125137154, 5
+Peartree, Headington - London Road, 5.384053453951174, 10
+Headington - London Road, Headington, 0.2362405276442341, 0
+Headington, Oxford Services, 7.992218591401648, 15
+Oxford Services, Thame, 8.24634565772712, 16
+Thame, Wallingford, 14.427304661450718, 28
+Wallingford, Membury Services, 30.757067233076107, 61
+Membury Services, Marlborough, 12.632747487397772, 25
+Marlborough, Swindon, 10.074928540722539, 20
+Swindon, John Lewis at home Swindon, 0.7653856859334666, 1
+John Lewis at home Swindon, John Lewis Outlet Swindon, 1.1467619890606726, 2
+John Lewis Outlet Swindon, Cirencester, 15.811872262030718, 31
+Cirencester, Cookery School (Salisbury), 45.574055070257224, 91
+Cookery School (Salisbury), Salisbury, 0.0, 0
+Salisbury, Salisbury Petrol Station, 0.0, 0
+Salisbury Petrol Station, Ringwood, 15.823128615484062, 31
+Ringwood, Christchurch, 7.722950040065675, 15
+Christchurch, Winton, 6.853035348283975, 13
+Winton, John Lewis at home Poole, 2.984278378154122, 5
+John Lewis at home Poole, Parkstone, 1.312323043477346, 2
+Parkstone, Wimborne, 5.740841468138267, 11
+Wimborne, Lymington New, 29.89252690429502, 59
+Lymington New, Daventry, 107.10112333302612, 214
+Daventry, Lutterworth, 14.172421474924796, 28
+Lutterworth, Blaby, 8.388371978111573, 16
+Blaby, Leicester Forest East Services, 4.19884520834795, 8
+Leicester Forest East Services, John Lewis Leicester, 4.771505343919623, 9
+John Lewis Leicester, Oadby, 4.681348404579343, 9
+Oadby, MOUNTSORREL, 10.5499941884518, 21
+MOUNTSORREL, John Lewis Nottingham, 15.238477377368852, 30
+John Lewis Nottingham, Trinity Square, 0.06445502251980356, 0
+Trinity Square, Wollaton, 5.559141389819426, 11
+Wollaton, Woodhall South, 25.09618472970667, 50
+Woodhall South, John Lewis Sheffield, 13.836523524185148, 27
+John Lewis Sheffield, Sheffield, 0.5469589190267687, 1
+Sheffield, Sheffield Petrol Station, 0.0, 0
+Sheffield Petrol Station, John Lewis Leeds, 29.70433880576088, 59
+John Lewis Leeds, Meanwood, 2.8995970232226194, 5
+Meanwood, Otley, 10.288633648562532, 20
+Otley, Harrogate, 12.46044073555609, 24
+Harrogate, Hartshead Moor (Services), 23.907158275255856, 47
+Hartshead Moor (Services), York, 49.418458744072765, 98
+York, John Lewis York, 2.7775418221361012, 5
+John Lewis York, Willerby, 43.41038458139028, 86
+Willerby, Lincoln, 35.74846185928414, 71
+Lincoln, Lincoln Petrol Station, 0.0, 0
+Lincoln Petrol Station, Newark, 23.26641501664793, 46
+Newark, Stamford, 37.16212526731873, 74
+Stamford, Oundle, 11.666113063492011, 23
+Oundle, Peterborough, 16.11518138844735, 32
+Peterborough, John Lewis Peterborough, 0.32376501788813244, 0
+John Lewis Peterborough, Rushden, 32.00110726171086, 64
+Rushden, Rushden Petrol Station, 0.0, 0
+Rushden Petrol Station, Market Harborough, 23.728126175424105, 47
+Market Harborough, Ely, 81.56003386520462, 163
+Ely, Newmarket, 14.327968588410048, 28
+Newmarket, Bury St Edmunds, 20.603105585409864, 41
+Bury St Edmunds, Sudbury, 14.37661187771135, 28
+Sudbury, Colchester, 16.36099122745477, 32
+Colchester, Ipswich (Corn Exchange), 19.51396733668842, 39
+Ipswich (Corn Exchange), Ipswich, 3.7265347652612113, 7
+Ipswich, John Lewis at home Ipswich, 0.0, 0
+John Lewis at home Ipswich, Saxmundham, 23.576031059665528, 47
+Saxmundham, John Lewis Norwich, 31.538734509877912, 63
+John Lewis Norwich, Norwich, 3.3008975249307655, 6
+Norwich, Wymondham, 9.045502069799179, 18
+Wymondham, Wymondham Petrol Station, 0.0, 0
+Wymondham Petrol Station, North Walsham, 24.205852926307788, 48
+North Walsham, Swaffham, 48.487368785887966, 96
+Swaffham, Swaffham Petrol Station, 0.0, 0
+Swaffham Petrol Station, Northwich, 223.72331658804464, 447
+Northwich, Chester, 25.422110279518346, 50
+Chester, John Lewis at home Chester, 2.4480442941825116, 4
+John Lewis at home Chester, John Lewis Liverpool, 15.15157028416201, 30
+John Lewis Liverpool, Formby, 11.548905286811046, 23
+Formby, Charnock Richard (Services), 25.65673992458417, 51
+Charnock Richard (Services), Walton-le-Dale, 8.261369842799898, 16
+Walton-le-Dale, Gretna Green (Services), 91.51097146270227, 183
+Gretna Green (Services), Morningside, 64.0333275789613, 128
+Morningside, Comely Bank, 2.1761558488884334, 4
+Comely Bank, Stirling, 50.21063739458302, 100
+Stirling, John Lewis Glasgow, 27.83401656799484, 55
+John Lewis Glasgow, Byres Road, 2.9021608276180255, 5
+Byres Road, Milngavie, 4.237630733777984, 8
+Milngavie, Newton Mearns, 10.679308003158127, 21
+Newton Mearns, Helensburgh, 28.401470227712764, 56
+Helensburgh, Helensburgh Petrol Station, 0.0, 0
+Helensburgh Petrol Station, Hexham, 192.4020034799359, 384
+Hexham, Ponteland, 25.05733177769338, 50
+Ponteland, Eldon Square, 10.155014223272378, 20
+Eldon Square, John Lewis Newcastle, 0.522566051912036, 1
+John Lewis Newcastle, Jesmond, 1.8396037798117253, 3
+Jesmond, John Lewis Aberdeen, 153.0701360352074, 306
+John Lewis Aberdeen, Menai Bridge, 306.0595491633563, 612
